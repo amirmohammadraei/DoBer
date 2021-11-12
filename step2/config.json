@@ -1,0 +1,9 @@
+{
+    "bind": {
+        "address": "localhost",
+        "port": 8080
+    },
+    "api": {
+        "url": ""
+    }
+}
