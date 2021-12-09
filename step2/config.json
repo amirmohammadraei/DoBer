@@ -4,6 +4,6 @@
         "port": 8080
     },
     "api": {
-        "url": ""
+        "url": "http://worldtimeapi.org/api/timezone/Europe/Rome"
     }
 }
